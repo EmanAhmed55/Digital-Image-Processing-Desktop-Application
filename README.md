@@ -3,27 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Digital Image Processing Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        .image-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        img {
-            max-width: 200px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-        }
-    </style>
 </head>
 <body>
 
