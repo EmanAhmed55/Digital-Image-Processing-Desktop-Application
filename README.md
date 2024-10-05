@@ -28,16 +28,5 @@
     >> BitGraySlicing
     </code>
 </pre>
-
-<h2>Functionality Overview</h2>
-<p>This project includes various functionalities such as:</p>
-<ul>
-    <li>Bit Gray Slicing</li>
-    <li>Gaussian Filters (High Pass & Low Pass)</li>
-    <li>Histogram Equalization</li>
-    <li>Image Negative and Log Transformations</li>
-    <li>Image Resampling Techniques</li>
-    <li>... and more!</li>
-</ul>
 </body>
 </html>
