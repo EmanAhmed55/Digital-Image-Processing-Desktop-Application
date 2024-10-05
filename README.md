@@ -58,33 +58,7 @@
     <li><strong>subtract_num_from_imgfig.m</strong> - MATLAB script for Subtracting Numbers from Image</li>
     <li><strong>thresholdapp.fig</strong> - GUI for Thresholding application</li>
     <li><strong>thresholdapp.m</strong> - MATLAB script for Thresholding application</li>
-    <li><strong>trois.fig</strong> - GUI for Trois functionalities</li>
-    <li><strong>trois.m</strong> - MATLAB script for Trois functionalities</li>
-    <li><strong>untitled1.fig</strong> - GUI for Untitled function</li>
-    <li><strong>untitled1.m</strong> - MATLAB script for Untitled function</li>
-    <li><strong>OIP.jpg</strong> - Sample Image</li>
-    <li><strong>R.jpg</strong> - Sample Image</li>
-    <li><strong>R2.jpg</strong> - Sample Image</li>
-    <li><strong>back.jpg</strong> - Background Image</li>
-    <li><strong>loupe.png</strong> - Loupe Image</li>
-    <li><strong>ffff.jpg</strong> - Example Image</li>
-    <li><strong>show.png</strong> - Show Image</li>
-    <li><strong>save.png</strong> - Save Image</li>
-    <li><strong>upload.jpg</strong> - Upload Image</li>
-    <li><strong>WhatsApp Audio 2022-04-24 at 2.53.23 PM.wav</strong> - Audio file</li>
 </ul>
-
-<h2>Images</h2>
-<div class="image-container">
-    <img src="OIP.jpg" alt="Sample Image 1">
-    <img src="R.jpg" alt="Sample Image 2">
-    <img src="R2.jpg" alt="Sample Image 3">
-    <img src="back.jpg" alt="Background Image">
-    <img src="show.png" alt="Show Image">
-    <img src="save.png" alt="Save Image">
-    <img src="upload.jpg" alt="Upload Image">
-</div>
-
 <h2>How to Run This Project in MATLAB</h2>
 <ol>
     <li>Ensure you have MATLAB installed on your computer.</li>
@@ -96,21 +70,5 @@
     <li>For running any script, type its name without the .m extension, for example:</li>
     <pre><code>>> Gaussian_high_pass_filter</code></pre>
 </ol>
-
-<h2>Functionality Overview</h2>
-<p>This project includes various functionalities such as:</p>
-<ul>
-    <li>Bit Gray Slicing</li>
-    <li>Gaussian Filters (High Pass & Low Pass)</li>
-    <li>Histogram Equalization</li>
-    <li>Image Negative and Log Transformations</li>
-    <li>Image Resampling Techniques</li>
-    <li>Thresholding and Contrast Adjustment</li>
-    <li>... and more!</li>
-</ul>
-
-<h2>Author</h2>
-<p>Developed by [Your Name]</p>
-
 </body>
 </html
