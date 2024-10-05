@@ -21,18 +21,6 @@
     <li><strong>Histogram.m</strong> - MATLAB script for Histogram</li>
     <li><strong>... (additional files)</strong></li>
 </ul>
-
-<h2>Images</h2>
-<div class="image-container">
-    <img src="OIP.jpg" alt="Sample Image 1">
-    <img src="R.jpg" alt="Sample Image 2">
-    <img src="R2.jpg" alt="Sample Image 3">
-    <img src="back.jpg" alt="Background Image">
-    <img src="show.png" alt="Show Image">
-    <img src="save.png" alt="Save Image">
-    <img src="upload.jpg" alt="Upload Image">
-</div>
-
 <h2>Usage Instructions</h2>
 <p>To run this project, ensure you have MATLAB installed with the necessary toolboxes. Use the following command to open the GUI:</p>
 <pre>
@@ -51,9 +39,5 @@
     <li>Image Resampling Techniques</li>
     <li>... and more!</li>
 </ul>
-
-<h2>Author</h2>
-<p>Developed by [Your Name]</p>
-
 </body>
 </html>
